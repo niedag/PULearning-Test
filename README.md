@@ -1,4 +1,4 @@
 # PULearning-Test
 Repository for testing out positive unlabeled learning with Python libraries.
 
-Goal is to train a small classification model for pursuasion using a partially labelled dataset.
+Current dataset to test with: https://huggingface.co/datasets/mlburnham/anthropic_persuasion or https://huggingface.co/datasets/Anthropic/persuasion
