@@ -8,4 +8,4 @@ Creating classification bot using y/n results
 ### References
 - https://www.anthropic.com/news/measuring-model-persuasiveness
 
-- 
+=proj on pause=
