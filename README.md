@@ -8,4 +8,6 @@ Creating classification bot using y/n results
 ### References
 - https://www.anthropic.com/news/measuring-model-persuasiveness
 
-=proj on pause=
+
+Sample Dataset
+-https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
